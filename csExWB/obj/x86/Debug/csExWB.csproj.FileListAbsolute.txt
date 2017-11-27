@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Scraping\csExWB\bin\x86\Debug\csExWB.dll
+C:\Users\user\Desktop\Scraping\csExWB\bin\x86\Debug\csExWB.pdb
+C:\Users\user\Desktop\Scraping\csExWB\bin\x86\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\user\Desktop\Scraping\csExWB\obj\x86\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\user\Desktop\Scraping\csExWB\obj\x86\Debug\csExWB.csproj.ResolveComReference.cache
+C:\Users\user\Desktop\Scraping\csExWB\obj\x86\Debug\csExWB.dll
+C:\Users\user\Desktop\Scraping\csExWB\obj\x86\Debug\csExWB.pdb
+G:\Scraping\csExWB\bin\x86\Debug\csExWB.dll
+G:\Scraping\csExWB\bin\x86\Debug\csExWB.pdb
+G:\Scraping\csExWB\bin\x86\Debug\Interop.CSEXWBDLMANLib.dll
+G:\Scraping\csExWB\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Scraping\csExWB\obj\x86\Debug\Interop.CSEXWBDLMANLib.dll
+G:\Scraping\csExWB\obj\x86\Debug\csExWB.csproj.ResolveComReference.cache
+G:\Scraping\csExWB\obj\x86\Debug\csExWB.dll
+G:\Scraping\csExWB\obj\x86\Debug\csExWB.pdb

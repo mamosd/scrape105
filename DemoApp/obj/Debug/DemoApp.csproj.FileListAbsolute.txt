@@ -1,0 +1,3 @@
+C:\Users\user\Desktop\Scraping\DemoApp\bin\Debug\DemoApp.exe.config
+C:\Users\user\Desktop\Scraping\DemoApp\obj\Debug\Interop.CSEXWBDLMANLib.dll
+C:\Users\user\Desktop\Scraping\DemoApp\obj\Debug\DemoApp.csproj.ResolveComReference.cache
